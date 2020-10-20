@@ -1,6 +1,6 @@
-#navbar {
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-	color: orange;
+.navbar{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+background-color: orangered;
 }
